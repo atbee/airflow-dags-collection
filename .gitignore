@@ -1,0 +1,26 @@
+# Airflow temporary artifacts
+/logs/
+
+# Byte-compiled
+__pycache__/
+
+# Dotenv
+.env
+
+# OSX
+.DS_Store
+
+# PyCharm
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Vim
+*.swp
+
+# Virtualenv
+.venv*
+venv/
+ENV/
